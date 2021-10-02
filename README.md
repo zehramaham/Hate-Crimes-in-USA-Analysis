@@ -35,4 +35,4 @@ committed from 2013-2016? Have hate crimes increased after Trump came to power?
 militant Jihadi Terrorist organizations and hate crimes against Muslims in the United 
 States from 2013-2017?
 
-## Analysis and our findings are discussed in the report.
+#### Analysis and our findings are discussed in the report.
